@@ -1,6 +1,6 @@
 {
   "name": "bash-ip",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "类似于linux下的简单版的ip命令工具",
   "main": "index.js",
   "bin": {

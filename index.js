@@ -3,7 +3,6 @@
 require('es.shim')
 const os = require('os')
 const path = require('path')
-const pg = require('progress')
 const cp = require('child_process')
 const chalk = require('chalk')
 
