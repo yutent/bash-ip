@@ -1,0 +1,20 @@
+{
+  "name": "bash-ip",
+  "version": "0.0.1",
+  "description": "类似于linux下的简单版的ip命令工具",
+  "main": "index.js",
+  "bin": {
+    "ip": "index.js"
+  },
+  "keywords": ["ip", "iproute2"],
+  "dependencies": {
+    "es.shim": "0.0.2",
+    "chalk": "^2.4.1"
+  },
+  "engines": {
+    "node": ">=8.0.0"
+  },
+  "os": ["darwin"],
+  "author": "yutent",
+  "license": "MIT"
+}
