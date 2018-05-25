@@ -1,6 +1,6 @@
 {
   "name": "bash-ip",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "类似于linux下的简单版的ip命令工具",
   "main": "index.js",
   "bin": {
@@ -8,7 +8,7 @@
   },
   "keywords": ["ip", "iproute2"],
   "dependencies": {
-    "es.shim": "0.0.2",
+    "es.shim": "^1.0.1",
     "chalk": "^2.4.1"
   },
   "engines": {
